@@ -1,0 +1,15 @@
+Jam/MR (aka "jam - make(1) redux") 
+
+For information about Jam/MR, please see:
+
+	http://www.perforce.com/jam/jam.html
+
+The source code is maintained in the Perforce Public Depot, which
+you can visit at http://public.perforce.com/public/index.html. 
+
+The files on this ftp site under /pub/jam/src are a mirror of the
+files in the //public/jam/src path in the Public Depot.
+
+/+\
++\	Copyright 1993, 2000 Christopher Seiwald.
+\+/
