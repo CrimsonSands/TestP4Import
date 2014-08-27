@@ -4,12 +4,12 @@ For information about Jam/MR, please see:
 
 	http://www.perforce.com/jam/jam.html
 
-The source code is maintained in the Perforce Public Depot, which
-you can visit at http://public.perforce.com/public/index.html. 
+The source code is maintained in the Perforce Workshop, which
+you can visit at https://workshop.perforce.com. 
 
-The files on this ftp site under /pub/jam/src are a mirror of the
-files in the //public/jam/src path in the Public Depot.
+The files on this ftp site under /jam/src are a mirror of the
+files in the //guest/perforce_software/jam/src path in the Workshop.
 
 /+\
-+\	Copyright 1993-2002 Christopher Seiwald and Perforce Software, Inc.
++\	Copyright 1993-20014 Christopher Seiwald and Perforce Software, Inc.
 \+/
